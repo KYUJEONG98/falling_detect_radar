@@ -2,8 +2,9 @@ import numpy as np
 
 INFTY_COST = 1e+5
 
-
-def iou(bbox, candidates):
+##intersection over union으로 객체 detection에서 사용됨
+##실제 객체 위치와 찾은 객체 위치 박스 2개의 교집합과 합집합을 구해 intersection/union 비율구함
+def iou(bbox, candidates): 
     """Compute intersection over union.
     Parameters
     ----------
