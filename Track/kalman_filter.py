@@ -3,6 +3,8 @@ import numpy as np
 import scipy.linalg
 
 
+##칼만필터는 과거측정값으로 현재를 재귀적으로 추정하고, 값을 업데이트함
+
 class KalmanFilter(object):
     """A simple Kalman filter for tracking bounding boxes in image space.
 
