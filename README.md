@@ -39,3 +39,5 @@ ST-GCN: https://arxiv.org/abs/1709.04875
 
 자세 추정 모델과 레이더 센서 낙상 판단 모델을 결합하였을 때, 
 낙상 판단 정확도 상승을 확인 
+
+[2023 대한전자공학회 하계학술대회 논문 링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11522430&nodeId=NODE11522430&mobileYN=N&medaTypeCode=185005&isPDFSizeAllowed=true&locale=ko&foreignIpYn=N&articleTitle=CCTV+%EC%99%80+%EB%A0%88%EC%9D%B4%EB%8D%94+%EC%84%BC%EC%84%9C%EB%A5%BC+%ED%99%9C%EC%9A%A9%ED%95%9C+%EC%8B%A4%EB%82%B4%EC%97%90%EC%84%9C%EC%9D%98+%EB%82%99%EC%83%81+%EC%82%AC%EA%B3%A0+%EA%B0%90%EC%A7%80+%EB%B0%A9%EB%B2%95&articleTitleEn=A+Method+of+Fall+Accidents+Detection+Using+CCTV+and+Radar+Sensor+in+the+Room&voisId=VOIS00727004&voisName=2023%EB%85%84%EB%8F%84+%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C+%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C+%EB%85%BC%EB%AC%B8%EC%A7%91&voisCnt=856&language=ko_KR&hasTopBanner=true) 
